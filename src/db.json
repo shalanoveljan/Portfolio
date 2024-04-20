@@ -1,0 +1,117 @@
+{
+  "home": {
+    "positions": [
+      "Orkhan Mehbaliyev",
+      "Web Developer",
+      "a third-year student"
+    ],
+    "description": "I am a MERN-Stack Web developer"
+  },
+  "about": {
+    "description": "Orkhan Mehbaliyev is a diligent university student and an aspiring MERN stack web developer. He is deeply passionate about crafting immersive and dynamic web experiences through his proficiency in MongoDB, Express.js, React.js, and Node.js. With a keen eye for detail and a commitment to excellence, Orkhan continuously seeks to expand his skills and knowledge in the ever-evolving field of web development. Dedicated to delivering high-quality solutions, he thrives on the challenges of problem-solving and takes pride in turning innovative ideas into functional reality. Through his unwavering dedication and relentless pursuit of mastery, Orkhan is poised to make significant contributions to the world of technology."
+  },
+  "service": [
+    {
+      "title": "Creative design",
+      "description": " Innovative and visually captivating design solutions that inspire and engage users."
+    },
+    {
+      "title": "Clean Code",
+      "description": "Meticulously organized and easily maintainable codebase, ensuring efficiency and readability."
+    },
+    {
+      "title": "Responsive Design",
+      "description": "Seamless adaptability across various devices, providing optimal user experience on all screen sizes."
+    },
+    {
+      "title": "Bootstrap 5",
+      "description": "Cutting-edge framework for rapid development, offering a plethora of customizable components and utilities."
+    },
+    {
+      "title": "Font Icons",
+      "description": "Stylish and scalable vector icons, enhancing visual appeal and accessibility of web content."
+    },
+    {
+      "title": "Awesome Support",
+      "description": "Prompt and comprehensive assistance, ensuring smooth sailing through any technical challenges with dedicated guidance."
+    }
+  ],
+  "statistics": [
+    {
+      "title": "happyclients",
+      "number": 10,
+      "icon": "fa-brands fa-skyatlas"
+    },
+    {
+      "title": "projectsCompleted",
+      "number": 13,
+      "icon": "fa fa-heart"
+    },
+    {
+      "title": "fileDownloaded",
+      "number": 33,
+      "icon": "fa fa-globe"
+    },
+    {
+      "title": "linesOfCode",
+      "number": 1231,
+      "icon": "fa fa-user"
+    }
+  ],
+  "testimonials": [
+    {
+      "description": "I am a MERN-Stack Web developer",
+      "fullname": "Orkhan Mehbaliyev",
+      "position": "MERN-Stack developer",
+      "profile-picture": "./img/kevin.jpg"
+    },
+    {
+      "description": "I am a MERN-Stack Web developer",
+      "fullname": "Orkhan Mehbaliyev",
+      "position": "MERN-Stack developer",
+      "profile-picture": "./img/kevin.jpg"
+    },
+    {
+      "description": "I am a MERN-Stack Web developer",
+      "fullname": "Orkhan Mehbaliyev",
+      "position": "MERN-Stack developer",
+      "profile-picture": "./img/kevin.jpg"
+    }
+  ],
+  "ourBlog": [
+    {
+      "heading": "Master These Awesome",
+      "info": "By Dorian Gray, Jun 27, 2018",
+      "description": "salam Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+      "postImage": "img/blog/1.png",
+      "category": "Web"
+    },
+    {
+      "heading": "Best Design Items to Appeal",
+      "info": "By Dorian Gray, Jun 27, 2018",
+      "description": "salam Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+      "postImage": "img/blog/2.png",
+      "category": "Web"
+    },
+    {
+      "heading": "The 20 Best Lightroom Presets",
+      "info": "By Dorian Gray, Jun 27, 2018",
+      "description": "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
+      "postImage": "img/blog/3.png",
+      "category": "Web"
+    }
+  ],
+  "contact": {
+    "address": "2651 Main Street, Suit 124\nSeattle, WA, 98101",
+    "phone1": "0123456789",
+    "phone2": "0345627891",
+    "email1": "hello@thetheme.io",
+    "email2": "inf0@brex-theme.io"
+  },
+  "requests": [
+    
+  ],
+  "publicFiles": [
+    {"CV": "../img/OrkhanMehbaliyevCV.pdf"}
+  ]
+}
